@@ -1,4 +1,4 @@
-# ETL Datasets on Trending YouTube Videos in UK, CA and US
+# ETL Datasets on Trending YouTube Videos in CA, UK and US
 ![](https://github.com/jwang711/SQL-projects/blob/master/SQL-ETL-Python_YouTube_Videos_Statistics/images/logo.png)
 
 ## Background
